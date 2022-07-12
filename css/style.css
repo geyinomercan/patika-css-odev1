@@ -1,0 +1,32 @@
+nav {
+    text-align: center;
+}
+
+a {
+    margin: 5px;
+    text-decoration: none;
+}
+
+hr {
+    margin-left: 630px;
+    margin-right: 630px;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+.article-list {
+    text-align: center;
+}
+
+.baslik-md {
+    color: red;
+}
+
+.baslik-hp {
+    color: blueviolet;
+}
+.baslik-alt {
+    color: #FFB562;
+}
